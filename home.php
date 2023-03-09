@@ -10,6 +10,7 @@
     <center>
         <h5>SELAMAT DATANG $nama</h5>
         <h5>aldi pratama</h5>
+        <h5>teknik informatika</h5>
     </center>
 </body>
 </html>
